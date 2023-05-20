@@ -25,7 +25,7 @@ tableProductsObj = [
         productName: 'Smartphone Galaxy A31 128GB Preto Samsung',
         originalPrice: 'R$ 809.00',
         currentPrice: 'R$ 800.00',
-        discount: 'R$  9.00'
+        discount: 'R$ 9.00'
     },
 ]
 
